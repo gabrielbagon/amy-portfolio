@@ -5,7 +5,7 @@ const CTAStyle = styled.div `
 background: #030303;
 height: 320px;
 position: absolute;
-top: 2300px;
+top: 2200px;
 left: 50%;
 transform: translate(-50%, -50%);
 width: 1110px;

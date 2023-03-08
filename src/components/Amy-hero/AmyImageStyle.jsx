@@ -1,7 +1,9 @@
 import styled from "styled-components";
 
 const AmyStyle = styled.img`
-background-image: url("/amy-pic.png");
+border-radius: 391px;
+border-width: 5px;
+background-image: url("/amy-pic.svg");
 background-repeat: no-repeat;
 background-size: contain;
 border: none;
